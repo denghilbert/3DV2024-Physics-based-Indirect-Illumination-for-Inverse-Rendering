@@ -1,4 +1,4 @@
-#DIP: Differentiable Interreflection-aware Physics-based Inverse Rendering
+# DIP: Differentiable Interreflection-aware Physics-based Inverse Rendering
 
 
 
