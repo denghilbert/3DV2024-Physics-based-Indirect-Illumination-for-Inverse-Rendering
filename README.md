@@ -17,7 +17,7 @@ pip install -r requirement.txt
 
 ## Run the code
 
-<I am still cleaning my code from [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode), but you can just run the code using the following command. I changed some variables, which may lead to some bugs and can be fixed with several changes to the variables' names.>
+<!--I am still cleaning my code from [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode), but you can just run the code using the following command. I changed some variables, which may lead to some bugs and can be fixed with several changes to the variables' names.-->
 
 #### Training
 
