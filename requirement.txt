@@ -11,4 +11,3 @@ pyhocon
 ipdb
 tqdm
 tensorboardX
-json
