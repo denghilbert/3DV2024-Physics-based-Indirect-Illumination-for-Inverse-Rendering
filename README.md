@@ -7,7 +7,7 @@
 - Set up the python environment
 
 ```sh
-conda create -n dip python=3.7
+conda create -n dip python=3.8
 conda activate dip
 
 pip install -r requirement.txt
