@@ -11,6 +11,7 @@ conda create -n dip python=3.7
 conda activate dip
 
 pip install -r requirement.txt
+pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
 - Download [MII](https://github.com/zju3dv/invrender) synthetic dataset from [Google Drive](https://drive.google.com/file/d/1wWWu7EaOxtVq8QNalgs6kDqsiAm7xsRh/view?usp=sharing)
