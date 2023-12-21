@@ -11,3 +11,4 @@ pyhocon
 ipdb
 tqdm
 tensorboardX
+scikit-image
