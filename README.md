@@ -1,6 +1,6 @@
 # Physics-based Indirect Illumination for Inverse Rendering
 
-Our paper Physics-based Indirect Illumination for Inverse Rendering has been accepted by 3DV 2024 and this is the official implementation.
+Our paper [Physics-based Indirect Illumination for Inverse Rendering](https://arxiv.org/abs/2212.04705) has been accepted by 3DV 2024 and this is the official implementation.
 
 ## Preparation
 
